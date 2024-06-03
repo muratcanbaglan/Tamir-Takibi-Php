@@ -1,0 +1,27 @@
+{
+    "borclar": [
+        {
+            "aciklama": "P13 BLUE MAX SOKET",
+            "fiyat": 200,
+            "tarih": "2024-05-31"
+        },
+        {
+            "aciklama": "IPHONE 7 VOLTAJ HATTI",
+            "fiyat": 200,
+            "tarih": "2024-05-31"
+        }
+    ],
+    "odemeler": [
+        {
+            "aciklama": "omix soket",
+            "fiyat": 200,
+            "tarih": "2024-06-29"
+        },
+        {
+            "aciklama": "samsung eski micro soket",
+            "fiyat": 100,
+            "tarih": "2024-06-28"
+        }
+    ],
+    "manuel_odeme": []
+}
